@@ -1,0 +1,1 @@
+mpiexec -np 4 python3 test.py
